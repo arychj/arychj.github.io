@@ -27,7 +27,7 @@
 	</keywords>
 	<experience>
         <company>
-			<employer>Vanderbilt Institute for Clinical and Translational Research</employer>
+			<name>Vanderbilt Institute for Clinical and Translational Research</name>
 			<link>https://victr.vanderbilt.edu</link>
 			<icon>./icons/victr.gif</icon>
             <role>
@@ -78,7 +78,7 @@
             </role>
         </company>
         <company>
-			<employer>Dartmouth-Hitchcock Medical Center</employer>
+			<name>Dartmouth-Hitchcock Medical Center</name>
 			<link>http://www.dartmouth-hitchcock.org</link>
 			<icon>./icons/dartmouth-hitchcock.png</icon>
             <role>
@@ -152,7 +152,7 @@
             </role>
         </company>
         <company>
-			<employer>Wavecrest Computing</employer>
+			<name>Wavecrest Computing</name>
 			<link>https://www.wavecrest.net</link>
 			<icon>./icons/wavecrest.png</icon>
             <role>
@@ -183,7 +183,7 @@
             </role>
         </company>
         <company>
-			<employer>Florida Institute of Technology, Department of Computer Sciences</employer>
+			<name>Florida Institute of Technology, Department of Computer Sciences</name>
 			<link>https://cs.fit.edu</link>
 			<icon>./icons/florida-tech.png</icon>
             <role>
