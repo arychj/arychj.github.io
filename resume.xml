@@ -2,45 +2,64 @@
 <?xml-stylesheet type="text/xsl" href="resume.xsl"?>
 <resume>
 	<demographics>
-		<name>Anon Nemo</name>
-		<title>Experience Presentation Engineer</title>
-		<address>Potwin, KS, United States</address>
-		<link>https://resuml.com</link>
-		<icon>./icons/resumlx.png</icon>
-		<email>anon.nemo@example.com</email>
+		<name>Erik J. Olson</name>
+		<title>Applications Developer at VICTR</title>
+		<address>Brentwood, TN, United States</address>
+		<link>https://erikjolson.com</link>
+		<icon>./icons/ejo.png</icon>
+		<email>hello@erikjolson.com</email>
 		<crypto>
-			<fingerprint>1A2B 3000 132E 01D0</fingerprint>
-			<key>https://en.wikipedia.org/wiki/GNU_Privacy_Guard</key>
+			<fingerprint>0B8A 3CC1 0996 BFC2</fingerprint>
+			<key>https://erikjolson.com/contact/pgp-public-key/</key>
 		</crypto>
-		<picture>https://thispersondoesnotexist.com/image</picture>
+		<picture>./icons/profile.jpg</picture>
 	</demographics>
 	<keywords>
 		<technologies title="Technologies">
-            <tag>xml</tag>
-            <tag>xsl</tag>
-			<tag>css</tag>
+			<tag>c#</tag>
+			<tag>.net</tag>
+			<tag>sql</tag>
+			<tag>php</tag>
+			<tag>symfony</tag>
 			<tag>jquery</tag>
-            <tag>moment.js</tag>
-            <tag>materialize</tag>
+			<tag>regex</tag>
 		</technologies>
 	</keywords>
-    <experience>
+	<experience>
         <company>
-			<name>Resume Markup Language</name>
-			<link>https://github.com/resuml/resuml.github.io</link>
-			<icon>./icons/resuml.svg</icon>
+			<employer>Vanderbilt Institute for Clinical and Translational Research</employer>
+			<link>https://victr.vanderbilt.edu</link>
+			<icon>./icons/victr.gif</icon>
             <role>
-                <title>Sr. Principle Imagineer</title>
+                <title>Senior Applications Developer</title>
                 <tenure>
-                    <start>2019-04-10</start>
+                    <start>2019-06-01</start>
                 </tenure>
                 <tags>
-                    <tag>xml</tag>
-                    <tag>xsl</tag>
-                    <tag>css</tag>
-                    <tag>jquery</tag>
-                    <tag>moment.js</tag>
-                    <tag>materialize</tag>
+                    <tag>php</tag>
+                    <tag>symfony</tag>
+                    <tag>mysql</tag>
+                    <tag>elasticsearch</tag>
+                    <tag>javascript</tag>
+                </tags>
+                <description>
+                    Design and develop applications in support of the Vanderbilt Institute for Clinical and Translational Research. Our goal is to transform the way ideas and research discoveries make their way from origin to patient care by simplifying process and making it easier for researchers and patients to focus on what is important.
+                </description>
+                <details>
+                </details>
+            </role>
+            <role>
+                <title>Applications Developer</title>
+                <tenure>
+                    <start>2016-10-01</start>
+                    <end>2019-06-01</end>
+                </tenure>
+                <tags>
+                    <tag>php</tag>
+                    <tag>symfony</tag>
+                    <tag>mysql</tag>
+                    <tag>elasticsearch</tag>
+                    <tag>javascript</tag>
                 </tags>
                 <description>
                     Design and develop applications in support of the Vanderbilt Institute for Clinical and Translational Research. Our goal is to transform the way ideas and research discoveries make their way from origin to patient care by simplifying process and making it easier for researchers and patients to focus on what is important.
@@ -59,14 +78,14 @@
             </role>
         </company>
         <company>
-			<name>Omni Consumer Products</name>
-			<link>https://example.com</link>
+			<employer>Dartmouth-Hitchcock Medical Center</employer>
+			<link>http://www.dartmouth-hitchcock.org</link>
 			<icon>./icons/dartmouth-hitchcock.png</icon>
             <role>
-                <title>Executive Chair to Keyboard Interface Specialist</title>
+                <title>Web Application Systems Programmer/Analyst</title>
                 <tenure>
-                    <start>2014-10-01</start>
-                    <end>2019-04-10</end>
+                    <start>2012-09-01</start>
+                    <end>2016-10-01</end>
                 </tenure>
                 <tags>
                     <tag>c#</tag>
@@ -99,42 +118,7 @@
                 </details>
             </role>
             <role>
-                <title>Chair to Keyboard Interface Specialist</title>
-                <tenure>
-                    <start>2013-10-01</start>
-                    <end>2014-10-15</end>
-                </tenure>
-                <tags>
-                    <tag>things</tag>
-                </tags>
-                <description>
-                    Do all the things
-                </description>
-                <details>
-                </details>
-            </role>
-            <role>
-                <title>Junior Chair to Keyboard Interface Specialist</title>
-                <tenure>
-                    <start>2012-09-01</start>
-                    <end>2013-10-15</end>
-                </tenure>
-                <tags>
-                    <tag>things</tag>
-                </tags>
-                <description>
-                    Do all the things
-                </description>
-                <details>
-                </details>
-            </role>
-        </company>
-        <company>
-            <name>NOVA Robotics</name>
-            <link>https://example.com</link>
-            <icon>./icons/dartmouth-hitchcock.png</icon>
-            <role>
-                <title>Hacker in Residence</title>
+                <title>Web Programmer</title>
                 <tenure>
                     <start>2010-04-01</start>
                     <end>2012-09-01</end>
@@ -168,11 +152,11 @@
             </role>
         </company>
         <company>
-			<name>Cyberdyne Systems</name>
-			<link>https://example.com</link>
+			<employer>Wavecrest Computing</employer>
+			<link>https://www.wavecrest.net</link>
 			<icon>./icons/wavecrest.png</icon>
             <role>
-                <title>Computer Psychiatrist</title>
+                <title>Software Programmer</title>
                 <tenure>
                     <start>2008</start>
                     <end>2009</end>
@@ -199,11 +183,11 @@
             </role>
         </company>
         <company>
-			<name>ENCOM</name>
-			<link>https://www.example.com</link>
+			<employer>Florida Institute of Technology, Department of Computer Sciences</employer>
+			<link>https://cs.fit.edu</link>
 			<icon>./icons/florida-tech.png</icon>
             <role>
-                <title>Professional Button Pusher</title>
+                <title>Web Administrator</title>
                 <tenure>
                     <start>2005</start>
                     <end>2009</end>
@@ -342,13 +326,8 @@
 	<credits>
 		<credit>
 			<title>May the source be with you</title>
-			<link>https://github.com/resuml/resuml.github.io</link>
+			<link>https://github.com/arychj/arychj.github.io</link>
 			<icon>https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png</icon>
 		</credit>
-        <credit>
-            <title>This Person Does Not Exist</title>
-            <link>https://thispersondoesnotexist.com</link>
-            <icon>./icons/snapped.png</icon>
-        </credit>
 	</credits>
 </resume>
