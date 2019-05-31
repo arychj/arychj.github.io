@@ -28,11 +28,35 @@
 	<roles>
 		<role>
 			<employer>Vanderbilt Institute for Clinical and Translational Research</employer>
+			<title>Senior Applications Developer</title>
+			<link>https://victr.vanderbilt.edu</link>
+			<icon>./icons/victr.gif</icon>
+			<tenure>
+				<start>2019-06-01</start>
+			</tenure>
+			<tags>
+				<tag>php</tag>
+				<tag>symfony</tag>
+				<tag>mysql</tag>
+				<tag>elasticsearch</tag>
+				<tag>javascript</tag>
+			</tags>
+			<description>
+				Design and develop applications in support of the Vanderbilt Institute for Clinical and Translational Research. Our goal is to transform the way ideas and research discoveries make their way from origin to patient care by simplifying process and making it easier for researchers and patients to focus on what is important.
+			</description>
+			<details>
+				<detail>
+				</detail>
+            </detals>
+        </role>
+		<role>
+			<employer>Vanderbilt Institute for Clinical and Translational Research</employer>
 			<title>Applications Developer</title>
 			<link>https://victr.vanderbilt.edu</link>
 			<icon>./icons/victr.gif</icon>
 			<tenure>
 				<start>2016-10-01</start>
+                <end>2019-06-01</end>
 			</tenure>
 			<tags>
 				<tag>php</tag>
