@@ -122,9 +122,10 @@ i.tiny{
 }
 
 .tags .tag{
-	display: inline-block;
-	padding: 1px 6px;
-	color: #39739d;
+    display: inline-block;
+    padding: 1px 6px;
+    margin: 0 2px;
+    color: #39739d;
     background-color: #E1ECF4;
     border-color: #E1ECF4;
     border-radius: 3px;
@@ -223,7 +224,7 @@ i.tiny{
     position: absolute;
     height: calc(100% - 20px);
     top: 40px;
-    left: -25px;
+    left: -5.65%;
     width: 2px;
     background-color: #e9e9e9;
 }
@@ -232,7 +233,7 @@ i.tiny{
     content: '';
     position: absolute;
     top: 20px;
-    left: -28px;
+    left: -6%;
     display: block;
     border: 2px solid #cfcfcf;
     border-radius: 50%;
